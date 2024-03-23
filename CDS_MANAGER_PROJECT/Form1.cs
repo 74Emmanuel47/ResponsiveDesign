@@ -13,13 +13,12 @@ namespace CDS_MANAGER_PROJECT
     public partial class frm_Home : Form
     {
         private bool btnClick;
-        private bool btn3Click;
 
         public frm_Home()
         {
             InitializeComponent();
             btnClick = false;
-            btn3Click = false;
+            panel3.Width = 94;
         }
 
         private void button2_MouseHover(object sender, EventArgs e)
@@ -37,6 +36,16 @@ namespace CDS_MANAGER_PROJECT
         {
             button2.BackColor = Color.FromArgb(138, 138, 255);
             btnClick = true;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(panel3.Width <= 94){
+                panel3.Width = 232;
+            } else
+            {
+                panel3.Width = 94;
+            }
         }
     }
 }
