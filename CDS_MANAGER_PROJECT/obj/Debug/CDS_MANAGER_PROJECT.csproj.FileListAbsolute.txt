@@ -1,0 +1,10 @@
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\bin\Debug\CDS_MANAGER_PROJECT.exe.config
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\bin\Debug\CDS_MANAGER_PROJECT.exe
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\bin\Debug\CDS_MANAGER_PROJECT.pdb
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\obj\Debug\CDS_MANAGER_PROJECT.csproj.AssemblyReference.cache
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\obj\Debug\CDS_MANAGER_PROJECT.frm_Home.resources
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\obj\Debug\CDS_MANAGER_PROJECT.Properties.Resources.resources
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\obj\Debug\CDS_MANAGER_PROJECT.csproj.GenerateResource.cache
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\obj\Debug\CDS_MANAGER_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\obj\Debug\CDS_MANAGER_PROJECT.exe
+C:\Users\chini\source\repos\CDS_MANAGER_PROJECT\CDS_MANAGER_PROJECT\obj\Debug\CDS_MANAGER_PROJECT.pdb
