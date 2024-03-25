@@ -18,7 +18,7 @@ namespace CDS_MANAGER_PROJECT
         {
             InitializeComponent();
             btnClick = false;
-            panel3.Width = 94;
+            panel3.Width = 82;
         }
 
         private void button2_MouseHover(object sender, EventArgs e)
@@ -40,11 +40,11 @@ namespace CDS_MANAGER_PROJECT
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(panel3.Width <= 94){
-                panel3.Width = 232;
+            if(panel3.Width <= 82){
+                panel3.Width = 160;
             } else
             {
-                panel3.Width = 94;
+                panel3.Width = 82;
             }
         }
     }

@@ -160,7 +160,6 @@ namespace CDS_MANAGER_PROJECT
             // 
             // button7
             // 
-            this.button7.Dock = System.Windows.Forms.DockStyle.Top;
             this.button7.FlatAppearance.BorderSize = 0;
             this.button7.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(220)))));
@@ -174,13 +173,12 @@ namespace CDS_MANAGER_PROJECT
             this.button7.Padding = new System.Windows.Forms.Padding(8);
             this.button7.Size = new System.Drawing.Size(232, 48);
             this.button7.TabIndex = 11;
-            this.button7.Text = "Web";
+            this.button7.Text = "            Web";
             this.button7.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button7.UseVisualStyleBackColor = true;
             // 
             // button8
             // 
-            this.button8.Dock = System.Windows.Forms.DockStyle.Top;
             this.button8.FlatAppearance.BorderSize = 0;
             this.button8.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(220)))));
@@ -194,13 +192,12 @@ namespace CDS_MANAGER_PROJECT
             this.button8.Padding = new System.Windows.Forms.Padding(8);
             this.button8.Size = new System.Drawing.Size(232, 48);
             this.button8.TabIndex = 9;
-            this.button8.Text = "iOS";
+            this.button8.Text = "            iOS";
             this.button8.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button8.UseVisualStyleBackColor = true;
             // 
             // button9
             // 
-            this.button9.Dock = System.Windows.Forms.DockStyle.Top;
             this.button9.FlatAppearance.BorderSize = 0;
             this.button9.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(220)))));
@@ -214,14 +211,13 @@ namespace CDS_MANAGER_PROJECT
             this.button9.Padding = new System.Windows.Forms.Padding(8);
             this.button9.Size = new System.Drawing.Size(232, 48);
             this.button9.TabIndex = 10;
-            this.button9.Text = "Android";
+            this.button9.Text = "            Android";
             this.button9.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button9.UseVisualStyleBackColor = true;
             // 
             // panel4
             // 
             this.panel4.Controls.Add(this.label3);
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel4.Location = new System.Drawing.Point(0, 340);
             this.panel4.Margin = new System.Windows.Forms.Padding(0);
             this.panel4.Name = "panel4";
@@ -241,7 +237,6 @@ namespace CDS_MANAGER_PROJECT
             // 
             // button6
             // 
-            this.button6.Dock = System.Windows.Forms.DockStyle.Top;
             this.button6.FlatAppearance.BorderSize = 0;
             this.button6.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(219)))));
@@ -255,13 +250,12 @@ namespace CDS_MANAGER_PROJECT
             this.button6.Padding = new System.Windows.Forms.Padding(8);
             this.button6.Size = new System.Drawing.Size(232, 48);
             this.button6.TabIndex = 8;
-            this.button6.Text = "Market";
+            this.button6.Text = "            Market";
             this.button6.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button6.UseVisualStyleBackColor = true;
             // 
             // button5
             // 
-            this.button5.Dock = System.Windows.Forms.DockStyle.Top;
             this.button5.FlatAppearance.BorderSize = 0;
             this.button5.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(219)))));
@@ -275,13 +269,12 @@ namespace CDS_MANAGER_PROJECT
             this.button5.Padding = new System.Windows.Forms.Padding(8);
             this.button5.Size = new System.Drawing.Size(232, 48);
             this.button5.TabIndex = 7;
-            this.button5.Text = "Feedback";
+            this.button5.Text = "            Feedback";
             this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button5.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
-            this.button4.Dock = System.Windows.Forms.DockStyle.Top;
             this.button4.FlatAppearance.BorderSize = 0;
             this.button4.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(219)))));
@@ -295,13 +288,12 @@ namespace CDS_MANAGER_PROJECT
             this.button4.Padding = new System.Windows.Forms.Padding(8);
             this.button4.Size = new System.Drawing.Size(232, 48);
             this.button4.TabIndex = 6;
-            this.button4.Text = "Chat";
+            this.button4.Text = "            Chat";
             this.button4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button4.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Dock = System.Windows.Forms.DockStyle.Top;
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(219)))));
@@ -315,13 +307,12 @@ namespace CDS_MANAGER_PROJECT
             this.button2.Padding = new System.Windows.Forms.Padding(8);
             this.button2.Size = new System.Drawing.Size(232, 48);
             this.button2.TabIndex = 4;
-            this.button2.Text = "Collection";
+            this.button2.Text = "            Collection";
             this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
             // 
-            this.button3.Dock = System.Windows.Forms.DockStyle.Top;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(255)))));
             this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(120)))), ((int)(((byte)(219)))));
@@ -335,14 +326,13 @@ namespace CDS_MANAGER_PROJECT
             this.button3.Padding = new System.Windows.Forms.Padding(8);
             this.button3.Size = new System.Drawing.Size(232, 48);
             this.button3.TabIndex = 5;
-            this.button3.Text = "Home";
+            this.button3.Text = "            Home";
             this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button3.UseVisualStyleBackColor = true;
             // 
             // panel2
             // 
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Margin = new System.Windows.Forms.Padding(0);
             this.panel2.Name = "panel2";
